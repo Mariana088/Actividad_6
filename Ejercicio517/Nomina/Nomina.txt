@@ -1,0 +1,21 @@
+Nombre = Luis
+Apellidos = Castro
+Cargo = ESTRATÉGICO
+Género = MASCULINO
+Salario = $ 80000.0
+Días trabajados = 28
+Otros ingresos =$20000.0
+Pagos saludo = $10000.0
+Aportes pensiones = $3000.0
+---------
+Nombre = Catalina
+Apellidos = Estrada
+Cargo = OPERATIVO
+Género = FEMENINO
+Salario = $ 95000.0
+Días trabajados = 29
+Otros ingresos =$30000.0
+Pagos saludo = $12000.0
+Aportes pensiones = $3000.0
+---------
+Total nómina = $5017000,00
